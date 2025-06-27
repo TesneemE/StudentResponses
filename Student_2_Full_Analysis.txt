@@ -1,0 +1,30 @@
+🧠 Skill Assessment Report: Student 2
+📝 Narrative Summary
+Student 2 demonstrates solid entrepreneurial thinking with standout capabilities in problem-solving, creativity, and community engagement. His responses show he is thoughtful, mission-driven, and capable of linking personal motivation with social impact. Student 2’s clarity in articulating ideas — from defining social innovation to pitching a socially conscious beverage business — reveals strong communication skills and a knack for ethical decision-making.
+
+He excels at teamwork, valuing collaboration and recognizing the strengths of his peers. His insights on computational thinking and learning to code highlight a proactive approach to continuous learning and adaptability. Student 2 also shows a deep sense of empathy, especially in his user-centered thinking about community needs and social ventures.
+
+However, there’s room to grow in data analysis/analytical reasoning and time management, where evidence is sparse or implicit. Incorporating more examples of data-informed decisions or task prioritization could elevate these areas.
+
+📊 Skill Ratings Table
+Skill Area	Rating
+Problem-Solving / Critical Thinking	🟢 High
+Adaptability	🟡 Medium
+Communication Skills	🟢 High
+Teamwork / Collaboration	🟢 High
+Emotional Intelligence	🟢 High
+Ethical Decision-Making	🟢 High
+Data Analysis / Analytical Reasoning	🔴 None
+Continuous Learning	🟡 Medium
+Creativity / Creative Thinking	🟢 High
+Time Management	🔴 None
+Community Engagement / Service Learning	🟢 High
+
+📉 Visual Skill Chart
+mathematica
+Copy
+Edit
+🟢 High       | ██████████  (7/11)
+🟡 Medium     | ████        (2/11)
+🔴 None       | ██          (2/11)
+🟢 = Strong Evidence | 🟡 = Moderate Evidence | 🔴 = Lacking Evidence
